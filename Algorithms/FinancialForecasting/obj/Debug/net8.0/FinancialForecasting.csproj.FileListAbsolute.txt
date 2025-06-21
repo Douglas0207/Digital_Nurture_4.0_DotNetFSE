@@ -1,0 +1,14 @@
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting.deps.json
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting.runtimeconfig.json
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting.dll
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/bin/Debug/net8.0/FinancialForecasting.pdb
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.AssemblyInfoInputs.cache
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.AssemblyInfo.cs
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.csproj.CoreCompileInputs.cache
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.dll
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/obj/Debug/net8.0/refint/FinancialForecasting.dll
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.pdb
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/obj/Debug/net8.0/FinancialForecasting.genruntimeconfig.cache
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FinancialForecasting/obj/Debug/net8.0/ref/FinancialForecasting.dll

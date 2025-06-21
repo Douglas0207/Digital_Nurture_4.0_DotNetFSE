@@ -1,0 +1,14 @@
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/obj/Debug/net8.0/ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/obj/Debug/net8.0/ECommerce.AssemblyInfoInputs.cache
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/obj/Debug/net8.0/ECommerce.AssemblyInfo.cs
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/obj/Debug/net8.0/ECommerce.csproj.CoreCompileInputs.cache
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/bin/Debug/net8.0/ECommerce
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/bin/Debug/net8.0/ECommerce.deps.json
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/bin/Debug/net8.0/ECommerce.runtimeconfig.json
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/bin/Debug/net8.0/ECommerce.dll
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/bin/Debug/net8.0/ECommerce.pdb
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/obj/Debug/net8.0/ECommerce.dll
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/obj/Debug/net8.0/refint/ECommerce.dll
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/obj/Debug/net8.0/ECommerce.pdb
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/obj/Debug/net8.0/ECommerce.genruntimeconfig.cache
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/ECommerce/obj/Debug/net8.0/ref/ECommerce.dll

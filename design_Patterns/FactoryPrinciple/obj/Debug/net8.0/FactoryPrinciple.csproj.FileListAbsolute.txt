@@ -1,0 +1,14 @@
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/obj/Debug/net8.0/FactoryPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/obj/Debug/net8.0/FactoryPrinciple.AssemblyInfoInputs.cache
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/obj/Debug/net8.0/FactoryPrinciple.AssemblyInfo.cs
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/obj/Debug/net8.0/FactoryPrinciple.csproj.CoreCompileInputs.cache
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/bin/Debug/net8.0/FactoryPrinciple
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/bin/Debug/net8.0/FactoryPrinciple.deps.json
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/bin/Debug/net8.0/FactoryPrinciple.runtimeconfig.json
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/bin/Debug/net8.0/FactoryPrinciple.dll
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/bin/Debug/net8.0/FactoryPrinciple.pdb
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/obj/Debug/net8.0/FactoryPrinciple.dll
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/obj/Debug/net8.0/refint/FactoryPrinciple.dll
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/obj/Debug/net8.0/FactoryPrinciple.pdb
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/obj/Debug/net8.0/FactoryPrinciple.genruntimeconfig.cache
+/Users/robinsondouglas/Desktop/cognizant/Digital Nurture /Week1/design_Patterns/FactoryPrinciple/obj/Debug/net8.0/ref/FactoryPrinciple.dll
