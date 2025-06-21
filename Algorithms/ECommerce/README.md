@@ -1,4 +1,4 @@
-🛒 Exercise 2: E-commerce Platform Search Function
+E-commerce Platform Search Function
 
 📘 Scenario
 This exercise focuses on implementing and understanding the search functionality of an e-commerce platform. In this version, we focus on the linear search algorithm, with plans to implement binary search next.
