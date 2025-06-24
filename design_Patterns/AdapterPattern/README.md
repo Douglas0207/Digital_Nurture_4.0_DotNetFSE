@@ -30,4 +30,5 @@ To integrate multiple third-party payment gateways with different interfaces int
 - Flexibility in extending support for new gateways by simply creating new adapter classes
 
 ## Output Example (Console)
+<img width="1440" alt="Screenshot 2025-06-24 at 10 45 28 PM" src="https://github.com/user-attachments/assets/46f881c8-0a61-4e8b-ae67-4cd568584105" />
 
