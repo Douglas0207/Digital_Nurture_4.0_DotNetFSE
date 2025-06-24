@@ -35,3 +35,4 @@ To dynamically add notification features (like Email, SMS, Slack) to a base noti
 
 ## Output Example (Console)
 
+<img width="1440" alt="Screenshot 2025-06-24 at 10 48 38 PM" src="https://github.com/user-attachments/assets/02a305ae-7639-42ea-80a5-0c787ee9dab8" />
