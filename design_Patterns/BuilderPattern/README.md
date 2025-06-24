@@ -39,3 +39,4 @@ To construct complex objects (like a Computer) with optional parameters in a rea
 
 ## Output Example (Console)
 
+<img width="1440" alt="Screenshot 2025-06-24 at 10 47 21 PM" src="https://github.com/user-attachments/assets/2d98f62a-0578-4ae1-a1e7-9b20a92653ae" />
