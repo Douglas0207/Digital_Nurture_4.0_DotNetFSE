@@ -28,3 +28,27 @@ Using stored procedures helps in:
 - Centralizing business logic at the database level
 
 This approach is especially useful in large applications where multiple modules need to perform similar database operations.
+
+
+# Exercise 5 – Count Employees by Department
+
+## 🔍 Problem Statement
+
+The aim is to build a stored procedure that counts the number of employees within a department based on a given department ID.
+
+## 🧠 SQL Logic Applied
+
+We created a procedure that takes a department ID as input and returns the total number of employees in that department using the COUNT function.
+
+This is useful for generating quick summaries and departmental statistics in HR dashboards or admin portals.
+
+## ✅ Output Screenshot
+
+<img width="1440" alt="Screenshot 2025-06-29 at 9 17 29 PM" src="https://github.com/user-attachments/assets/bba89353-04be-4180-90c8-77e6cc6856a9" />
+
+## 🧾 Explanation
+
+This procedure provides a simple way to get department-level headcounts. It promotes:
+- Reusability across reporting tools
+- Cleaner integration with front-end applications
+- Fast access to summary data without writing new queries each time
