@@ -15,4 +15,4 @@ This lab ensures that the development environment is ready for deeper EF Core us
 
 ## OUTPUT
 
-![Screenshot 2025-07-05 133813](https://github.com/user-attachments/assets/fc1e0b26-ac64-423f-a4a9-db4754d25cb7)
+![Screenshot 2025-07-05 ](https://github.com/user-attachments/assets/fc1e0b26-ac64-423f-a4a9-db4754d25cb7)
