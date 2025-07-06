@@ -17,4 +17,4 @@ This assignment showcases how to connect a .NET app to a database and manage sch
 
 ## OUTPUT
 
-![Screenshot 2025-07-05 134747](https://github.com/user-attachments/assets/31db9a29-31bd-49ff-b9fb-06bd78ac2d4d)
+![Screenshot 2025-07-05 ](https://github.com/user-attachments/assets/31db9a29-31bd-49ff-b9fb-06bd78ac2d4d)
