@@ -1,5 +1,5 @@
 [7/13/2025 5:54:27 PM] EXCEPTION: Simulated exception for test
-   at Assignment3and4.Controllers.EmployeeController.GetAll() in /Users/robinsondouglas/Desktop/Week1/WEB_API/Assingment3/Controllers/EmployeeController.cs:line 27
+   at Assignment3and4.Controllers.EmployeeController.GetAll() in /Users/robinsondouglas/Desktop/Week1/WEB_API/Assignment3/Controllers/EmployeeController.cs:line 27
    at lambda_method3(Closure, Object, Object[])
    at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
    at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
