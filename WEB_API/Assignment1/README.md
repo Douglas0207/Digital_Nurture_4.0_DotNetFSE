@@ -1,4 +1,4 @@
-Assignment 1  # 📘 Assignment 1 – Web API using ASP.NET Core (.NET 8)
+# 📘 Assignment 1 – Web API using ASP.NET Core (.NET 8)
 
 ### 👨‍🎓 Student: Robinson Douglas  
 ### 🗓️ Week: 4  
