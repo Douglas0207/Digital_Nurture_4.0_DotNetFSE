@@ -90,6 +90,13 @@ Tested all actions using Swagger UI.
 
 ## Output
 
+<img width="1440" height="900" alt="Screenshot 2025-07-12 at 9 32 41 PM" src="https://github.com/user-attachments/assets/d57399b3-ff24-4c4e-8f76-0c3fef207826" />
+
+<img width="1440" height="900" alt="Screenshot 2025-07-12 at 10 22 21 PM" src="https://github.com/user-attachments/assets/b41d0f40-5091-42b9-96f3-ea0a4c7a830f" />
+
+<img width="1440" height="900" alt="Screenshot 2025-07-12 at 10 22 25 PM" src="https://github.com/user-attachments/assets/f4d0b023-b322-43dc-ba2a-0cb766dea959" />
+
+
 ---
 
 ## Conclusion
