@@ -1,12 +1,12 @@
-# 📘 Assignment 1 – Web API using ASP.NET Core (.NET 8)
+# Assignment 1 – Web API using ASP.NET Core (.NET 8)
 
-### 👨‍🎓 Student: Robinson Douglas  
-### 🗓️ Week: 4  
-### 📝 Assignment: Create a simple Web API with Read/Write operations
+### Student: Robinson Douglas  
+### Week: 4  
+### Assignment: Create a simple Web API with Read/Write operations
 
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Understand the concept of RESTful Web Service, Web API, and Microservices
 - Learn about HTTP request and response flow
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Operating System:** macOS  
 - **Editor:** Visual Studio Code  
@@ -27,23 +27,23 @@
 
 ---
 
-## 🔨 Steps Performed
+## Steps Performed
 
-### ✅ Step 1: Created Web API Project
+### Step 1: Created Web API Project
 
 Used the following command to create the project:
 - `dotnet new webapi -n Assignment1`
 
 This created a basic Web API template with a sample controller (`WeatherForecastController`).
 
-### ✅ Step 2: Explored Swagger UI
+### Step 2: Explored Swagger UI
 
 - Ran the application using `dotnet run`
 - Navigated to `http://localhost:[port]/swagger`
 - Saw the default endpoint `/weatherforecast` listed
 - Used **Try it out → Execute** to see JSON response of dummy weather data
 
-### ✅ Step 3: Created Custom `ValuesController` with CRUD Operations
+### Step 3: Created Custom `ValuesController` with CRUD Operations
 
 Manually added a new controller `ValuesController` with the following endpoints:
 
@@ -63,7 +63,7 @@ Tested all actions using Swagger UI.
 
 ---
 
-## ✅ Output Samples
+## Output Samples
 
 - `GET /api/values` returned:
   - `["value1", "value2"]`
@@ -74,7 +74,7 @@ Tested all actions using Swagger UI.
 
 ---
 
-## 📚 Key Concepts Learned
+## Key Concepts Learned
 
 | Concept                        | Status |
 |-------------------------------|--------|
@@ -88,7 +88,11 @@ Tested all actions using Swagger UI.
 
 ---
 
-## 🏁 Conclusion
+## Output
+
+---
+
+## Conclusion
 
 Successfully created and tested a simple RESTful Web API using .NET Core 8. Understood core concepts of routing, controller structure, action verbs, and Swagger testing. This assignment served as the foundational step toward building and managing real-world Web APIs.
 
