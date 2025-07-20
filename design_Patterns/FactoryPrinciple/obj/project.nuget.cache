@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "t+G44dTc83w=",
+  "dgSpecHash": "aIX2qXHAUPE=",
   "success": true,
   "projectFilePath": "/Users/robinsondouglas/Desktop/Week1/design_Patterns/FactoryPrinciple/FactoryPrinciple.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/robinsondouglas/.nuget/packages/microsoft.netcore.app.ref/8.0.18/microsoft.netcore.app.ref.8.0.18.nupkg.sha512",
+    "/Users/robinsondouglas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512",
+    "/Users/robinsondouglas/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.18/microsoft.netcore.app.host.osx-arm64.8.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
