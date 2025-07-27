@@ -1,24 +1,27 @@
-## Exercise 2: Class and Function Components
+# React Course – Exercise 2
 
-### Objectives
+## Objective
 
-- Understand the concept of React components
-- Learn the differences between class components and function components
-- Build and render multiple components inside a React application
+In this exercise, I learned to:
 
-### What I Did
+- Understand what React components are and how they work  
+- Identify the differences between regular JavaScript functions and React components  
+- Learn about the two main types of components: class components and function components  
+- Understand how class components are built using constructors and the render() method  
 
-- I created a new React app named `secondreact`
-- I built two types of components: one class-based and one function-based
-- I used these components to display a student's name and registration number
-- I explored how class components use `render()` while function components return JSX directly
-- I imported both components into `App.js` and rendered them together
+## What I Did
 
-### Summary
+I created a new React project called `StudentApp` using the create-react-app tool. Inside the `src` folder, I created a new folder named `Components` to organize all the custom components.
 
-In this exercise, I created a class component and a functional component to understand their structure and usage. I practiced how to define, export, and render components in a React application. This helped me understand the foundation of component-based architecture in React.
+I built three components:
 
-### Output Screenshot
+- **Home** – shows the message: "Welcome to the Home page of Student Management Portal"  
+- **About** – shows the message: "Welcome to the About page of the Student Management Portal"  
+- **Contact** – shows the message: "Welcome to the Contact page of the Student Management Portal"  
+
+Each of these was created in its own file. Then, I imported all three components into `App.js` and rendered them together. After running the project, I opened it in the browser using `localhost:3000` to see all the messages displayed.
+
+## Output Screenshot
 
 <img width="1440" height="900" alt="Screenshot 2025-07-27 at 5 45 33 PM" src="https://github.com/user-attachments/assets/72752916-5f6b-405d-8141-478ff643c8b6" />
 
