@@ -1,4 +1,4 @@
-# React Course – Exercise 5
+# React – Exercise 5
 
 ## Objective
 
