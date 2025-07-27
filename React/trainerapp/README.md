@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# React Course – Exercise 6
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objective
 
-## Available Scripts
+In this exercise, I learned to:
 
-In the project directory, you can run:
+- Understand the need and advantages of using React Router  
+- Explore the different router components available in React  
+- Learn how to configure routes and create a navigation system  
+- Pass parameters through URLs to display specific data  
 
-### `npm start`
+## What I Did
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I created a new React project called `TrainersApp` using create-react-app and opened it in Visual Studio Code.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+First, I created a class named `Trainer` inside a file called `trainer.js` with properties like ID, Name, Email, Phone, Technology, and Skills. I then created a new file `TrainersMock.js` to hold mock data representing multiple trainers.
 
-### `npm test`
+To enable routing in my application, I installed the `react-router-dom` library. I created a new component named `TrainersList` which accepted the mock data and displayed the list of trainers. Each trainer’s name was rendered as a clickable link.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+I also created a simple `Home` component to serve as the landing page. Then I updated the main `App` component to set up routing using `BrowserRouter`, `Routes`, `Route`, and `Link`. I defined the following routes:
+- `/` for the Home component  
+- `/trainers` for the list of trainers  
+- `/trainers/:id` for viewing a specific trainer’s details  
 
-### `npm run build`
+To support detailed views, I created a `TrainerDetail` component. This component used the `useParams` hook to extract the trainer ID from the URL. It then searched the mock data using this ID and displayed the corresponding trainer’s details.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Finally, I tested the full flow:
+- Navigating to the home page  
+- Viewing the list of trainers  
+- Clicking on a trainer to see their details using dynamic routing  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Output Screenshot
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width="1440" height="900" alt="Screenshot 2025-07-27 at 8 21 28 PM" src="https://github.com/user-attachments/assets/19a741bb-15d4-4f0a-b157-c6ad0371fa73" />
 
-### `npm run eject`
+<img width="1440" height="900" alt="Screenshot 2025-07-27 at 8 21 30 PM" src="https://github.com/user-attachments/assets/d84c8cff-4fa9-45b4-b833-071a844d7cb7" />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<img width="1440" height="900" alt="Screenshot 2025-07-27 at 8 21 32 PM" src="https://github.com/user-attachments/assets/2633c95e-8f4a-4c51-91a5-3b3004b3805e" />
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1440" height="900" alt="Screenshot 2025-07-27 at 8 21 38 PM" src="https://github.com/user-attachments/assets/f3e83a19-3252-49bd-be40-e1142fd55a7d" />
