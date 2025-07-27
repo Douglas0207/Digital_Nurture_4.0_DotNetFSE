@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+    font-family: sans-serif;
+  }
+  
+  .entry, .exit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  span {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
