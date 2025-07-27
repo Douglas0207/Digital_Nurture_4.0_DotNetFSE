@@ -1,4 +1,4 @@
-# React Course – Exercise 6
+# React – Exercise 6
 
 ## Objective
 
