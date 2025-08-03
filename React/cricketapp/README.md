@@ -26,5 +26,8 @@ This project is part of the Week 7 React assignment for the Digital Nurture 4.0 
 
 ## 📸 Output Screenshots
 
-> Paste your screenshots below:
+<img width="1440" height="900" alt="Screenshot 2025-08-03 at 9 16 23 PM" src="https://github.com/user-attachments/assets/bff1103e-b26b-4773-a837-b3741e322499" />
+
+<img width="1440" height="900" alt="Screenshot 2025-08-03 at 9 16 35 PM" src="https://github.com/user-attachments/assets/5ff553c5-b93c-4ca1-9c20-4a7126e9d0aa" />
+
 
